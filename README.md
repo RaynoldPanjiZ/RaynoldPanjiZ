@@ -9,16 +9,20 @@
 
 🔭 **I'm currently studying** Software engineer at Kuningan University
 
-🌱 **I’m currently learning** Computer Vision, Deep Learning & Software Development
+👀 **I’m interested** in Machine Learning
+
+🌱 **I’m currently learning** all about Computer Vision & Software Development
 
 
 <hr>
 
-### **My Github Stats** 📈 :
+<details>
+<summary><b>My Github Stats<b>&nbsp;📈 :</summary><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=RaynoldPanjiZ&theme=tokyonight&show_icons=true&line_height=40)](https://github.com/RaynoldPanjiZ?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaynoldPanjiZ&theme=tokyonight&line_height=10)](https://github.com/RaynoldPanjiZ?tab=repositories)
 
+</details>
 
 <!-- [![Raynold Panji Zulfiandi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RaynoldPanjiZ&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/RaynoldPanjiZ) -->
 
