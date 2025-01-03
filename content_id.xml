@@ -1,0 +1,86 @@
+<content>
+  <aboutme>
+    <p>Final year student at Kuningan University. Have experience Web Programmer at PT.Pupuk Kujang, Cikampek for 6 months. Has worked on a project as a Cloud Engineer at Bootcamp Bangkit 2021. Proficient in using various programming languages such as Python, C/C++, PHP, and JavaScript, as well as machine learning tools such as TensorFlow, Scikit-learn, NumPy, OpenCV, and Pandas. And familiar with using the Query language, especially MySQL and SQLite.</p>
+  </aboutme>
+  <projects>
+    <project>
+      <projimg>./imgs/dphi-project.png</projimg>
+      <projtitle>Eye Gender Classification</projtitle>
+      <projdesc>Membangun arsitektur Convolusi Neural Network menggunakan Tensorflow untuk melakukan klasifikasi jenis kelamin berdasarkan bentuk mata.</projdesc>
+      <projfeatures>
+        <feature>Membangun arsitektur Convolusi Neural Network menggunakan Tensorflow untuk melakukan klasifikasi jenis kelamin berdasarkan bentuk mata.</feature>
+        <feature>Melakukan training, testing dan Preprocessing data gambar sejumlah 9220 data dengan ukuran pixel yang beragam.</feature>
+        <feature>Mendapat penilaian yang cukup baik dalam pengerjaan tugas projek Machine Learning ini, sehingga tugas saya mendapat nilai 79.95 dari reviewer.</feature>
+      </projfeatures>
+      <projlink>https://github.com/RaynoldPanjiZ/dphi-Deep-Learning-Bootcamp</projlink>
+    </project>
+    <project>
+      <projimg>./imgs/loan-analysis.png</projimg>
+      <projtitle>Loan Risk Analysis</projtitle>
+      <projdesc>Menyelesaikan Projek Loan Risk Analysis: Membuat model prediksi potensi user yang beresiko tidak mau bayar tunggakan berdasarkan status pembayarannya.</projdesc>
+      <projfeatures>
+        <feature>Menyelesaikan semua Course Data Science yang diberikan ID/X Partners.</feature>
+        <feature>Menyelesaikan Projek Loan Risk Analysis: Membuat model prediksi potensi user yang beresiko tidak mau bayar tunggakan berdasarkan status pembayarannya.</feature>
+        <feature>Melakukan EDA sederhana seperti menghapus outlayer data dan pemilihan fitur.</feature>
+        <feature>Melakukan ekstraksi fitur dari 75 fitur data, menggunakan SelectKBest regression.</feature>
+        <feature>Melakuan parameter tuning model KNN menggunakan GridSearchCV untuk meningkatkan akurasi model.</feature>
+        <feature>Mendapatkan akurasi tertinggi 0.9672936 menggunakan parameter n_neighbors: 9, dan p distance: 3.</feature>
+      </projfeatures>
+      <projlink>https://github.com/RaynoldPanjiZ/rakamin-id-x_partner</projlink>
+    </project>
+    <project>
+      <projimg>./imgs/bangkit-cloud.png</projimg>
+      <projtitle>Fruit Identifier</projtitle>
+      <projdesc>Merancang dan Membangun Arsitektur Cloud Computing dan mengintegrasikannya antara Android dan Machine Learning dalam bentuk Rest-API menggunakan pemrograman backend NodeJs.</projdesc>
+      <projfeatures>
+        <feature>Menyelesaikan semua Course dasar-dasar Cloud Computing dan pemrograman pada platform Coursera, dan Qwiklabs.</feature>
+        <feature>Merancang dan Membangun Arsitektur Cloud Computing dan mengintegrasikannya antara Android dan Machine Learning dalam bentuk Rest-API menggunakan pemrograman backend NodeJs.</feature>
+        <feature>Menyiapkan database menggunakan Google Firestore untuk menginput data deskripsi dan identifikasibuah.</feature>
+        <feature>Membantu team Machine Learning dalam melakukan deploy Machine Learning ke dalam Google Storage dan Cloud Function Google.</feature>
+        <feature>Deploy Rest-API Backend ke Google Compute Engine.</feature>
+      </projfeatures>
+      <projlink>https://github.com/RaynoldPanjiZ/Fruit-Ripeness</projlink>
+    </project>
+    <project>
+      <projimg>./imgs/default-image.png</projimg>
+      <projtitle>Mushroom Classification Flask (Self Project)</projtitle>
+      <projdesc>Projek ini adalah sebagai media pembelajaran mandiri untuk membangun model sistem klasifikasi 
+jamur dan menerapkannya pada Web Server menggunakan Flask.</projdesc>
+      <projfeatures>
+        <feature>Membuat model klasifikasi menggunakan model CNN pada dataset jamur pada kaggle, dan
+memanfaatkan pre-train model untuk transfer learning. </feature>
+        <feature>Melakukan deploy Keras model ke dalam Flask.</feature>
+      </projfeatures>
+      <projlink>https://github.com/RaynoldPanjiZ/mushroom-classification</projlink>
+    </project>
+  </projects>
+  <experiences>
+    <experience>
+      <date>Februari 2023 - present</date>
+      <company>PT. Meister Sinergi Indonesia</company>
+      <jobtitle>AI / ML Engineer</jobtitle>
+      <location>Cimahi, Jawa Barat</location>
+      <description>Terlibat dalam tim post-processing dalam pengembangan aplikasi berbasis kecerdasan buatan.</description>
+      <description>Membuat dan mengembangkan projek prototyping berbasis Citra dan Deteksi Objek</description>
+      <description>Merancang dan implementasi program Deep Learning ke aplikasi multiplatform</description>
+    </experience>
+    <experience>
+      <date>Oktober 2021 - Maret 2022</date>
+      <company>PT. Pupuk Kujang</company>
+      <jobtitle>Web Programming Intern</jobtitle>
+      <location>Cikampek, Jawa Barat</location>
+      <description>Membangun sistem transaksi antar Mitra menggunakan framework Codeigniter dalam bentuk RestAPI.</description>
+      <description>Membangun sistem rantai pemasok berupa transaksi antar mitra seperti produksi barang, pembelian materai, proses komposisi dan purchase order barang.</description>
+      <description>Membuat dan merancang database transaksi.</description>
+    </experience>
+    <experience>
+      <date>Oktober 2021 - Februari 2022</date>
+      <company>Universitas Kuningan</company>
+      <jobtitle>Asisten Lab praktikum</jobtitle>
+      <location>Kuningan, Jawa Barat</location>
+      <description>Mengorganisir dan mengawasi berjalannya kegiatan praktikum di laboratorium komputer sebagai pembimbing dan asisten dosen untuk mata kuliah Statistika, Sistem Operasi, dan Pemrograman Mobile.</description>
+      <description>memeriksa, mencatat dan melaporkan kelengkapan alat-alat laboratorium komputer sebelum dan saat digunakan agar dapat digunakan dengan baik dalam proses pembelajaran berlangsung.</description>
+      <description>Instalasi peralatan-peralatan Lab komputer Universitas Kuningan seperti installasi software, manajemen kabel, dan perawatan hardware komputer.</description>
+    </experience>
+  </experiences>
+</content>
